@@ -37,7 +37,7 @@ The dataset used is a collection of cat and dog images, organized as follows:
 
 ---
 
-### ✨ Credits
+### Credits
 
 Dataset: [[Kaggle Cats vs Dogs Dataset]](https://www.kaggle.com/datasets/chetankv/dogs-cats-images)  
 Notebook Author: *Your Name*  
